@@ -1,2 +1,2 @@
 # ararinha
-https://wonderloof.github.io/ararinha/aula.html
+https://lucasfelsky.github.io/ararinha/aula.html
